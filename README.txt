@@ -15,10 +15,4 @@
   - SQL
   - Python
 
-### Incoming Projects
-
-  - Car Price Predictor ML Model(Random Forest)
-  - House Price Predictor ML Model(Linear Regression/Random Forest)
-
-
 NEW PROJECTS COMING YOUR WAY...........
